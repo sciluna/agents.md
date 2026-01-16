@@ -15,4 +15,4 @@
 * If argparse is used, place argparse parsing in main() unless explicitly overriden
 * If pyproject.toml present, then use black and flake8 if present for formatting and linting, otherwise use ruff
 * Prefer f-strings
-* Comments should be in English; translate to English as necessary
+* Comments should be in English; translate to English as needed
